@@ -1,0 +1,64 @@
+[
+    {
+        "id": "TC1",
+        "description": "Verify 'Implement user authentication' status and tags",
+        "page": "Web Application",
+        "taskName": "Implement user authentication",
+        "expectedColumn": "To Do",
+        "expectedTags": [
+            "Feature",
+            "High Priority"
+        ]
+    },
+    {
+        "id": "TC2",
+        "description": "Verify 'Fix navigation bug' status and tags",
+        "page": "Web Application",
+        "taskName": "Fix navigation bug",
+        "expectedColumn": "To Do",
+        "expectedTags": [
+            "Bug"
+        ]
+    },
+    {
+        "id": "TC3",
+        "description": "Verify 'Design system updates' status and tags",
+        "page": "Web Application",
+        "taskName": "Design system updates",
+        "expectedColumn": "In Progress",
+        "expectedTags": [
+            "Design"
+        ]
+    },
+    {
+        "id": "TC4",
+        "description": "Verify 'Push notification system' status and tags",
+        "page": "Mobile Application",
+        "taskName": "Push notification system",
+        "expectedColumn": "To Do",
+        "expectedTags": [
+            "Feature"
+        ]
+    },
+    {
+        "id": "TC5",
+        "description": "Verify 'Offline mode' status and tags",
+        "page": "Mobile Application",
+        "taskName": "Offline mode",
+        "expectedColumn": "In Progress",
+        "expectedTags": [
+            "Feature",
+            "High Priority"
+        ]
+    },
+    {
+        "id": "TC6",
+        "description": "Verify 'App Icon Design' status and tags.",
+        "page": "Mobile Application",
+        "taskName": "App Icon Design",
+        "expectedColumn": "Done",
+        "expectedTags": [
+            "Design"
+        ]
+    }
+]
